@@ -27,5 +27,5 @@ L'utilisateur joue contre l'ordinateur. Le score est mis à jour automatiquement
 
 1. **Cloner le dépôt** :
 ```bash
-git clone https://github.com/rihem/rock-paper-scissor-game.git
+git clone https://github.com/RihemMersani/rock-paper-scissor-game.git
 
