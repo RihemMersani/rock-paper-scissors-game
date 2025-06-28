@@ -25,6 +25,4 @@ L'utilisateur joue contre l'ordinateur. Le score est mis à jour automatiquement
 
 ## 🚀 Lancer le jeu
 
-1. **Cloner le dépôt** :
-```bash
-git clone https://github.com/votre-utilisateur/nom-du-repo.git
+
